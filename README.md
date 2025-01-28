@@ -1,4 +1,4 @@
-<img src="https://github.com/rajan9430/rajan9430/blob/main/Templates%20%26%20Apps.gif" alt="logo" width="100%" height="300">
+<img src="https://www.canva.com/join/jvg-lzq-nqs" alt="logo" width="100%" height="300">
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Rajan+Kumar+Tiwari!;" />
