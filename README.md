@@ -37,6 +37,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajan9430&show_icons=true&locale=en&layout=compact" alt="rajan9430" /></p>
 
+![snake gif](https://github.com/Mayankkatheriya/Mayankkatheriya/blob/output/github-contribution-grid-snake-dark.svg)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajan9430&show_icons=true&locale=en" alt="rajan9430" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajan9430&" alt="rajan9430" /></p>
